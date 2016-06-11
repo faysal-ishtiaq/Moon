@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Largest palindrome product
+title: Largest palindrome product (projectEuler)
 category: Programming
 tags: [ 'euler', 'c', 'python' ]
 excerpt: A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers...
