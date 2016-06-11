@@ -38,7 +38,7 @@ int main()
 {% endraw %}
 {% endhighlight %} 
 
- ### Python:
+### Python:
 
 {% highlight python %}
 {% raw %}
