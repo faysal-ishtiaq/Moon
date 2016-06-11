@@ -40,11 +40,11 @@ int main()
 
  ### Python:
 
-{% highlight c %}
+{% highlight python %}
 {% raw %}
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun 11 08:15:05 2016
+Created on Sat Jun 11 20:15:05 2016
 
 @author: faysal
 """
