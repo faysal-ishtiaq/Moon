@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+require 'date'
+
+POSTS_DIR = '_posts/'
+
+post = ARGV[0]
+
+File.open(POSTS_DIR + Date.today.strftime("%Y-%m-%d-") + post + '.md', 'w') {|f| f.write(
+  "---\nlayout: post\nsection-type: post\ntitle: Title\ncategory: Programming\ntags: [ 'euler', 'c', 'python' ]\n---\n\n## Problem: \n\n## Solution: \n\n### C: \n\n{% highlight c %}\n{% raw %}\n\n\n{% endraw %}\n{% endhighlight %} \n\n### Python:\n\n{% highlight c %}\n{% raw %}\n\n\n{% endraw %}\n{% endhighlight %}")
+}
+
+puts('[+] Created ' + post + ' post')

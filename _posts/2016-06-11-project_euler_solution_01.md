@@ -1,23 +1,24 @@
 ---
 layout: post
 section-type: post
-title: Problem 01 - Multiples of 3 and 5
-category: Category
+title: Title
+category: Programming
 tags: [ 'euler', 'c', 'python' ]
 ---
-## Problem 01:
+
+## Problem:
 
 ### If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
 ### Find the sum of all the multiples of 3 or 5 below 1000.
 
-## Solution
 
-### C
+## Solution: 
+
+### C: 
 
 {% highlight c %}
 {% raw %}
-
 int main()
 {
     int i, sum = 0;
@@ -34,14 +35,12 @@ int main()
 
     return 0;
 }
-
 {% endraw %}
-{% endhighlight %}
+{% endhighlight %} 
 
+ ### Python:
 
-### Python
-
-{% highlight python %}
+{% highlight c %}
 {% raw %}
 # -*- coding: utf-8 -*-
 """
