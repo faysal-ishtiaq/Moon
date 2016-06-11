@@ -4,18 +4,19 @@ section-type: post
 title: Largest prime factor (projectEuler)
 category: Programming
 tags: [ 'euler', 'c', 'python' ]
+excerpt: What is the largest prime factor of the number 600851...
 ---
 
-## Problem: 
+### Problem: 
 
-### The prime factors of 13195 are 5, 7, 13 and 29.
+#### The prime factors of 13195 are 5, 7, 13 and 29.
 
-### What is the largest prime factor of the number 600851475143 ?
+#### What is the largest prime factor of the number 600851475143 ?
 
 
-## Solution: 
+### Solution: 
 
-### C: 
+#### C: 
 
 {% highlight c %}
 {% raw %}
@@ -24,7 +25,7 @@ tags: [ 'euler', 'c', 'python' ]
 {% endraw %}
 {% endhighlight %} 
 
-### Python:
+#### Python:
 
 {% highlight python %}
 {% raw %}
