@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Even Fibonacci numbers
+title: Even Fibonacci numbers (projectEuler)
 category: Programming
 tags: [ 'euler', 'c', 'python' ]
 ---

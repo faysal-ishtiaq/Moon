@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Multiples of 3 and 5
+title: Multiples of 3 and 5 (projectEuler)
 category: Programming
 tags: [ 'euler', 'c', 'python' ]
 ---
