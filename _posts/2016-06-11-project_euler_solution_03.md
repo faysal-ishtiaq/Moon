@@ -20,8 +20,32 @@ excerpt: What is the largest prime factor of the number 600851...
 
 {% highlight c %}
 {% raw %}
+int max_prime_factor(long int num)
+{
+    int i = 2, _max_prime_factor = 0;
 
+    while(i * i <= num)
+    {
+        if (num%i == 0)
+        {
+            num /= i;
+            
+            if(i > _max_prime_factor) _max_prime_factor = i;
+        }
+        else i++;
+    }
+        
+    if(num > 1 && num > _max_prime_factor) _max_prime_factor = num;
 
+    return _max_prime_factor;
+}
+
+int main()
+{
+    printf("%d", max_prime_factor(600851475143));
+
+    return 0;
+}
 {% endraw %}
 {% endhighlight %} 
 
