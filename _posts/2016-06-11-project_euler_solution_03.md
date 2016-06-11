@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Title
+title: Largest prime factor
 category: Programming
 tags: [ 'euler', 'c', 'python' ]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Title
+title: Multiples of 3 and 5
 category: Programming
 tags: [ 'euler', 'c', 'python' ]
 ---
