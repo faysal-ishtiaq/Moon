@@ -40,7 +40,7 @@ def prime_factors(n):
     i = 2
     factors = []
     while i * i <= n:
-        if n % i:
+        if (n%i == 0):
             n //= i
             factors.append(i)
         else:
