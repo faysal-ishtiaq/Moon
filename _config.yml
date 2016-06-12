@@ -30,9 +30,9 @@ disqus_shortname:   firabby
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-79189877-1
   #verify:
   #ad-client:
   #ad-slot:
