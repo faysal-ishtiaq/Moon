@@ -1,10 +1,10 @@
 ---
 layout: post
 section-type: post
-title: Title
+title: Smallest multiple
 category: Programming
 tags: [ 'euler', 'c', 'python' ]
-excerpt: EXCERPT OF THE POST
+excerpt: What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 ---
 
 ### Problem: 
