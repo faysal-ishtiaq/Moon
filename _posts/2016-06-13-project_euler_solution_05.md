@@ -156,4 +156,4 @@ if __name__ == "__main__":
 {% endhighlight %}
 
 #### Try it out in Python 3:
-<iframe style="width: 640; height: 480; border: none;" name="embedded_python_anywhere" src="https://www.pythonanywhere.com/embedded3/"></iframe>
+<iframe style="width: 100%; height: 480px; border: none;" name="embedded_python_anywhere" src="https://www.pythonanywhere.com/embedded3/"></iframe>
