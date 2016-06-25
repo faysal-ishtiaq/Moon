@@ -77,3 +77,6 @@ def prime_factors(n):
 print(max(prime_factors(600851475143)))
 {% endraw %}
 {% endhighlight %}
+
+#### Try it out in Python 3:
+<iframe style="width: 640; height: 480; border: none;" name="embedded_python_anywhere" src="http://www.pythonanywhere.com/embedded3/"></iframe>
