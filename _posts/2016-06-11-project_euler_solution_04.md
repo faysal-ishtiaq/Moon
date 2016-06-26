@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 section-type: post
 title: Largest palindrome product (projectEuler)
 category: Programming

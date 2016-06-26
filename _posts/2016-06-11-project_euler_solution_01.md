@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 section-type: post
 title: Multiples of 3 and 5 (projectEuler)
 category: Programming

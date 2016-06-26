@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 section-type: post
 title: Even Fibonacci numbers (projectEuler)
 category: Programming

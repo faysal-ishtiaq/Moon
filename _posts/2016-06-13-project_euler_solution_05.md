@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 section-type: post
 title: Smallest multiple
 category: Programming
