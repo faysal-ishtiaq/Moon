@@ -40,6 +40,7 @@ int main()
 
 	while(run_again[0] =='y')
 	{
+		root_found = 0;
 
 		printf("\nInput starting value, x1:\n > ");
 		scanf("%f", &x1);
